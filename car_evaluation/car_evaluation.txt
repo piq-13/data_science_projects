@@ -1,0 +1,1 @@
+Given the simplicity of the dataset a Decision Tree Classifier has been used, alongside optuna an accuracy score of 0.98 has been achieved as shown in the notebook
